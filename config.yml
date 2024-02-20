@@ -1,2 +1,3 @@
 name: MWK test site
-theme: minima
+theme: jekyll-theme-minimal
+description: this is description text
